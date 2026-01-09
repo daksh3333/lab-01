@@ -2,15 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Daksh Sethi>`
+- **CCID:** `<daksh3>`
 
 ## References and Resources
-
+N/A
 List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
-
+TA during lab session
 | Student Name | CCID      |
 | ------------ | --------- |
 | `student`    | `student` |
