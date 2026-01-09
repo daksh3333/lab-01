@@ -6,7 +6,7 @@
 - **CCID:** `<daksh3>`
 
 ## References and Resources
-N/A
+Gemini - helped with syntax, just missing semicolons really
 List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
